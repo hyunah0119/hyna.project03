@@ -2,11 +2,13 @@
 
 .wrap {
     width: 100%;
+    height: 100vh;
     overflow: hidden;
 }
 
 .todo {
     width: 800px;
+    height: 100%;
     border-radius: 5px;
     background-color: $subWhite;
     margin: 0 auto;
